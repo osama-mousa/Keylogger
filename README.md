@@ -6,6 +6,7 @@ sudo apt install python3
 
 
 بعد ذلك، تحتاج إلى تثبيت مكتبة pynput التي سنستخدمها لتسجيل ضغطات المفاتيح:
+
 pip3 install pynput
 
 لتشغيل الـkeylogger، استخدم الأمر التالي:
