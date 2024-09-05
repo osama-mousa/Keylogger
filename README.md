@@ -1,4 +1,5 @@
 إذا لم يكن Python مثبتًا، يمكنك تثبيته باستخدام:
+
 sudo apt update
 
 sudo apt install python3
